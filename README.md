@@ -4,7 +4,8 @@ Here I upload all of my code that I used to complete some Flutter UI Challanges.
 - [Table of Contents](#heading)
   * [App Introduction Slider](#sub-heading)
   * [Shopping App UI](#sub-heading)
-    
+  * [Swipeable Cart item](#sub-heading)
+   
 
 
 <!-- toc -->
@@ -27,6 +28,10 @@ Features: Animated Custom Bottom navigation bar using PageViewer, Custom App Bar
 
 <img src="https://user-images.githubusercontent.com/57573642/117827183-9635a700-b292-11eb-94d5-7b1215b9563e.gif" width="15%"></img> <img src="https://user-images.githubusercontent.com/57573642/117827097-83bb6d80-b292-11eb-9c2e-3136bfbed9fc.jpg" width="15%"></img> <img src="https://user-images.githubusercontent.com/57573642/117827112-86b65e00-b292-11eb-9b77-2f04f5104e50.jpg" width="15%"></img> <img src="https://user-images.githubusercontent.com/57573642/117827118-87e78b00-b292-11eb-94f5-1697b6d9992a.jpg" width="15%"></img> <img src="https://user-images.githubusercontent.com/57573642/117827124-8918b800-b292-11eb-8cc1-879fe1fb6cee.jpg" width="15%"></img> 
 
+### Shopping App UI
+Here you can see how I implemented swipe to delete cart item.
 
+<a href='https://github.com/Ajoy-1704001/shopping_cart_swipe_to_delete'>Click here for code</a>
 
+<img src="https://user-images.githubusercontent.com/57573642/117986721-afeef100-b35b-11eb-9fb8-45a05502d1af.jpg" width="23%"></img> <img src="https://user-images.githubusercontent.com/57573642/117986744-b2e9e180-b35b-11eb-9256-ccfcbf8ae46c.jpg" width="23%"></img> <img src="https://user-images.githubusercontent.com/57573642/117989244-f9d8d680-b35d-11eb-8adb-b7cff110f2bc.gif" width="23%"></img> 
 
