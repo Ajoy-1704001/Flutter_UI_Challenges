@@ -42,3 +42,6 @@ Here you can see a bottom navigation bar with rounded edges. You can also see ho
 Ui credit: https://dribbble.com/shots/15654110-Travel-Recommendation-App
 
 <img src="https://user-images.githubusercontent.com/57573642/120103976-0b9ae600-c174-11eb-858f-6e739d73d8c8.jpg" width="30%"></img> <img src="https://user-images.githubusercontent.com/57573642/120103984-0f2e6d00-c174-11eb-9ba3-4bbff69cfabf.jpg" width="30%"></img> 
+
+<a href='https://github.com/Ajoy-1704001/travel_recommendation_ui'>Click here for code</a>
+
