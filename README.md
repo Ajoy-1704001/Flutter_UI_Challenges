@@ -6,6 +6,7 @@ Here I upload all of my code that I used to complete some Flutter UI Challanges.
   * [Shopping App UI](#sub-heading)
   * [Swipeable Cart item](#sub-heading)
   * [Travel Recommendation UI](#sub-heading)
+  * [Student Welfare App](#sub-heading)
    
 
 
@@ -44,4 +45,14 @@ Ui credit: https://dribbble.com/shots/15654110-Travel-Recommendation-App
 <img src="https://user-images.githubusercontent.com/57573642/120103976-0b9ae600-c174-11eb-858f-6e739d73d8c8.jpg" width="30%"></img> <img src="https://user-images.githubusercontent.com/57573642/120103984-0f2e6d00-c174-11eb-9ba3-4bbff69cfabf.jpg" width="30%"></img> 
 
 <a href='https://github.com/Ajoy-1704001/travel_recommendation_ui'>Click here for code</a>
+
+### Student Welfare App
+This repository contains almost all the UI of this app. Here I used sliver widget like sliverappbar and sliverlist. A customized tabbar is used inside sliverappbar. It keeps floating while scrolling up.
+Code is kept private for privacy issue. If you want to learn this, you can contact me.
+
+<a href=''>Click here for code</a>
+
+<img src="https://user-images.githubusercontent.com/57573642/153199989-89b21b07-c99c-4d6d-93d5-269db8d34d41.png" width="23%"></img> <img src="https://user-images.githubusercontent.com/57573642/153200003-4f772a55-bb15-457c-a94d-363328dd349b.png" width="23%"></img> <img src="https://user-images.githubusercontent.com/57573642/153199972-f88b926a-3933-49fd-ba1a-101c89d539f8.png" width="23%"></img> <img src="https://user-images.githubusercontent.com/57573642/153199982-96d43be8-1b6e-490a-b7de-4a59ba9a2f51.png" width="23%"></img>  
+
+
 
