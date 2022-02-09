@@ -6,6 +6,7 @@ Here I upload all of my code that I used to complete some Flutter UI Challanges.
   * [Shopping App UI](#sub-heading)
   * [Swipeable Cart item](#sub-heading)
   * [Travel Recommendation UI](#sub-heading)
+  * [Health Care App](#sub-heading)
   * [Student Welfare App](#sub-heading)
    
 
@@ -53,6 +54,16 @@ Code is kept private for privacy issue. If you want to learn this, you can conta
 <a href=''>Click here for code</a>
 
 <img src="https://user-images.githubusercontent.com/57573642/153199989-89b21b07-c99c-4d6d-93d5-269db8d34d41.png" width="23%"></img> <img src="https://user-images.githubusercontent.com/57573642/153200003-4f772a55-bb15-457c-a94d-363328dd349b.png" width="23%"></img> <img src="https://user-images.githubusercontent.com/57573642/153199972-f88b926a-3933-49fd-ba1a-101c89d539f8.png" width="23%"></img> <img src="https://user-images.githubusercontent.com/57573642/153199982-96d43be8-1b6e-490a-b7de-4a59ba9a2f51.png" width="23%"></img>  
+
+### Health Care App
+This project consists of 5-6 screens and firebase is used for authentcation and storing user data. This app provides health care services and it also detects heart disease.
+A heart disease prediction model is integrated in this app for predicting heart disease. There is also a button which is used to send emergency message to phones. This is also done by shaking the phone.
+Code is kept private for privacy issue as this is one of my university course project. If you want to learn this, you can contact me.
+
+<a href=''>Click here for code</a>
+
+<img src="https://user-images.githubusercontent.com/57573642/153290391-b7fb25e6-9538-430d-83ad-764dab117289.png" width="23%"></img> <img src="https://user-images.githubusercontent.com/57573642/153290398-3c38bceb-d2bb-431e-8aa6-793927bf9b1e.png" width="23%"></img> <img src="https://user-images.githubusercontent.com/57573642/153290406-d39f6454-e18c-44ae-b7ee-53ee82ec89de.png" width="23%"></img> <img src="https://user-images.githubusercontent.com/57573642/153290409-f08c515f-a5aa-4a6f-a5f7-b5d51eb5857f.png" width="23%"></img> <img src="https://user-images.githubusercontent.com/57573642/153290412-7287c565-d277-439e-b277-725c18d2c8d0.png" width="23%"></img> <img src="https://user-images.githubusercontent.com/57573642/153290419-ebbad21e-0244-42f0-b484-ea48e8714982.png" width="23%"></img> <img src="https://user-images.githubusercontent.com/57573642/153291369-0864a906-0856-42b4-bbb6-4a9a4d6421aa.png" width="23%"></img> 
+
 
 
 
