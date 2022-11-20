@@ -8,6 +8,7 @@ Here I upload all of my code that I used to complete some Flutter UI Challanges.
   * [Travel Recommendation UI](#sub-heading)
   * [Health Care App](#sub-heading)
   * [Student Welfare App](#sub-heading)
+  * [Train Reservation App](#sub-heading)
    
 
 
@@ -63,6 +64,17 @@ Code is kept private for privacy issue as this is one of my university course pr
 <a href=''>Click here for code</a>
 
 <img src="https://user-images.githubusercontent.com/57573642/153290391-b7fb25e6-9538-430d-83ad-764dab117289.png" width="23%"></img> <img src="https://user-images.githubusercontent.com/57573642/153290398-3c38bceb-d2bb-431e-8aa6-793927bf9b1e.png" width="23%"></img> <img src="https://user-images.githubusercontent.com/57573642/153290406-d39f6454-e18c-44ae-b7ee-53ee82ec89de.png" width="23%"></img> <img src="https://user-images.githubusercontent.com/57573642/153290409-f08c515f-a5aa-4a6f-a5f7-b5d51eb5857f.png" width="23%"></img> <img src="https://user-images.githubusercontent.com/57573642/153290412-7287c565-d277-439e-b277-725c18d2c8d0.png" width="23%"></img> <img src="https://user-images.githubusercontent.com/57573642/153290419-ebbad21e-0244-42f0-b484-ea48e8714982.png" width="23%"></img> <img src="https://user-images.githubusercontent.com/57573642/153291369-0864a906-0856-42b4-bbb6-4a9a4d6421aa.png" width="23%"></img> 
+
+
+### Train Reservation App
+
+Here you can see some complex ui building technique such as booking template, ticket design etc. You can also see how I implemented autocomplete text field.
+
+Ui Inspiration taken from:  https://dribbble.com/shots/15418720-Train-Booking-App
+
+<a href='https://github.com/Ajoy-1704001/Train-Reservation'>Click here for code</a>
+<img src="https://user-images.githubusercontent.com/57573642/202893820-79be5ad4-ed02-4fcb-887e-b4ec290936d1.png" width="30%"></img> <img src="https://user-images.githubusercontent.com/57573642/202893839-cf20c7c2-daf0-4330-ae3a-a6685cfc6802.png" width="30%"></img> <img src="https://user-images.githubusercontent.com/57573642/202894054-a094d69d-3009-490f-ba21-14878c7cf95c.png" width="30%"></img> 
+
 
 
 
