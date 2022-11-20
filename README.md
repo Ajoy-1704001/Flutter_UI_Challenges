@@ -39,7 +39,7 @@ Here you can see how I implemented swipe to delete cart item.
 
 <img src="https://user-images.githubusercontent.com/57573642/117986721-afeef100-b35b-11eb-9fb8-45a05502d1af.jpg" width="23%"></img> <img src="https://user-images.githubusercontent.com/57573642/117986744-b2e9e180-b35b-11eb-9256-ccfcbf8ae46c.jpg" width="23%"></img> <img src="https://user-images.githubusercontent.com/57573642/117989244-f9d8d680-b35d-11eb-8adb-b7cff110f2bc.gif" width="23%"></img> 
 
-### Travel Reccomandation UI
+### Travel Recomandation UI
 Here you can see a bottom navigation bar with rounded edges. You can also see how I used Stack widget to build this UI. 
 
 Ui credit: https://dribbble.com/shots/15654110-Travel-Recommendation-App
@@ -73,7 +73,7 @@ Here you can see some complex ui building technique such as booking template, ti
 Ui Inspiration taken from:  https://dribbble.com/shots/15418720-Train-Booking-App
 
 <a href='https://github.com/Ajoy-1704001/Train-Reservation'>Click here for code</a>
-<img src="https://user-images.githubusercontent.com/57573642/202893820-79be5ad4-ed02-4fcb-887e-b4ec290936d1.png" width="30%"></img> <img src="https://user-images.githubusercontent.com/57573642/202893839-cf20c7c2-daf0-4330-ae3a-a6685cfc6802.png" width="30%"></img> <img src="https://user-images.githubusercontent.com/57573642/202894054-a094d69d-3009-490f-ba21-14878c7cf95c.png" width="30%"></img> 
+<img src="https://user-images.githubusercontent.com/57573642/202893820-79be5ad4-ed02-4fcb-887e-b4ec290936d1.png" width="23%"></img> <img src="https://user-images.githubusercontent.com/57573642/202893839-cf20c7c2-daf0-4330-ae3a-a6685cfc6802.png" width="23%"></img> <img src="https://user-images.githubusercontent.com/57573642/202894054-a094d69d-3009-490f-ba21-14878c7cf95c.png" width="23%"></img> 
 
 
 
